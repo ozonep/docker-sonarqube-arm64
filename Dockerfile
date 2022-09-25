@@ -1,4 +1,4 @@
-FROM alpine:3.14.8
+FROM arm64v8/alpine:3.14
 
 ENV LANG='en_US.UTF-8' \
     LANGUAGE='en_US:en' \
